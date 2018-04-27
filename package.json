@@ -22,7 +22,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "serialport": "^2.0.0"
+    "serialport": "^4.0.7"
   },
   "devDependencies": {
     "chai": "^3.3.0",
